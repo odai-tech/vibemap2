@@ -1,0 +1,10 @@
+{
+  "name": "VibeMap",
+  "description": "A real-time social layer on the physical world. Drop stories, join events, and discover the city's vibe instantly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
