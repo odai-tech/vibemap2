@@ -1,0 +1,17 @@
+{
+  "name": "VibeMap",
+  "short_name": "VibeMap",
+  "description": "A live social map of your city. Drop pins, join tables, make friends.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070B",
+  "theme_color": "#05070B",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
